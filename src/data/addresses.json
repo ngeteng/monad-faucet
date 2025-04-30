@@ -2,6 +2,7 @@
   {
     "address": "0x1111",
     "privateKey": "0x11",
+    "proxy": "ip代理, 可以不填。格式username:password@ip:port",
     "twitterToken": "123xxx"
   }
 ]
